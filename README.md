@@ -35,7 +35,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+
 home.html:
+```
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -79,6 +81,7 @@ home.html:
 </html>
 ```
 product.html:
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -126,6 +129,7 @@ product.html:
 </html>
 ```
 people.html:
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -199,6 +203,7 @@ people.html:
 </body>
 </html>
 ```
+
 contactus.html:
 ```
 <!DOCTYPE html>
