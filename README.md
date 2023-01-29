@@ -252,10 +252,12 @@ contactus.html:
 ## OUTPUT:
 
 ### Home Page:
-
 ![output](o1.png)
+### Product Page:
 ![output](o2.png)
+### People Page:
 ![output](o3.png)
+### Contact Page:
 ![output](o4.png)
 
 ## Result:
