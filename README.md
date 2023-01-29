@@ -253,7 +253,10 @@ contactus.html:
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](o1.png)
+![output](o2.png)
+![output](o3.png)
+![output](o4.png)
 
 ## Result:
 
